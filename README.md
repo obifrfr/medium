@@ -1,3 +1,3 @@
 # medium
-Link to my profile on Medium.com, focusing on key areas that benefit from spatial insights and analysis.
-[medium](https://medium.com/@obifrfr)
+Link to my profile on [Medium.com](https://medium.com/@obifrfr), focusing on key areas that benefit from spatial insights and analysis.
+
